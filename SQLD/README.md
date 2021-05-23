@@ -1,8 +1,9 @@
 # SQLD
 5월 29일 SQLD 시험에 합격해봅시당 !
 
+#### 2과목 1장.sql
 <details>
-<summary> 2과목 2장.sql (CLICK) </summary>
+<summary> CLICK </summary>
 
 **\[예제1] 다음 조건의 형태로 선수 테이블을 생성한다.** <br>
 테이블명: PLAYER <br>
@@ -70,5 +71,21 @@
 **\[예제12] PLAYER 테이블을 제거한다.**
 
 **\[예제13] TRUNCATE TABLE을 사용하여 TEAM 테이블의 모든 행을 삭제하고 테이블 구조를 확인한다.**
+
+</details>
+
+#### 2과목 2장.sql
+<details>
+<summary> CLICK </summary>
+
+**\[예제1]**
+
+</details>
+
+#### 2과목 3장.sql
+<details>
+<summary> CLICK </summary>
+
+**\[예제1]**
 
 </details>
