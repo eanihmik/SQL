@@ -1,5 +1,6 @@
 SHOW DATABASES;
-USE sqld;
+CREATE DATABASE sqld_kleague;
+USE sqld_kleague;
 SHOW TABLE STATUS;
 
 /*
@@ -121,7 +122,8 @@ DESC TEAM;    # 구조 그대로
 
 
 
-
+CREATE DATABASE sqld_excercises;
+USE sqld_excercises;
 
 #7
 CREATE TABLE 기관분류 (
