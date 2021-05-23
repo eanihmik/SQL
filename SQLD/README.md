@@ -55,7 +55,7 @@
 
 **\[예제6] TEAM_TEMP 테이블의 ORIG_YYYY 칼럼의 데이터 유형을 CHAR(4) → VARCHAR2(8)으로 변경하고, 향후 입력되는 데이터의 DEFAULT 값으로 '20020129'을 적용하고, 모든 행의 ORIG_YYYY 칼럼에 NULL이 없으므로 제약조건을 NULL → NOT NULL로 변경한다.**
 
-**\[예제7] TEAM_TEMP 테이블의 TEAM_ID 칼럼명을 다른 이름으로 변경하고, 다시 TEAM_ID 칼럼으로 변경한다.
+**\[예제7] TEAM_TEMP 테이블의 TEAM_ID 칼럼명을 다른 이름으로 변경하고, 다시 TEAM_ID 칼럼으로 변경한다.**
 
 **\[예제8] PLAYER 테이블의 기본키 제약조건을 삭제한다.**
 
