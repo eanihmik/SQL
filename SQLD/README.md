@@ -2,7 +2,8 @@
 5월 29일 SQLD 시험에 합격해봅시당 !
 
 <details>
-<summary> 2과목 2장.sql (Click) </summary>
+<summary> 2과목 2장.sql (CLICK) </summary>
+
 **\[예제1] 다음 조건의 형태로 선수 테이블을 생성한다.** <br>
 테이블명: PLAYER <br>
 테이블 설명: K-리그 선수들의 정보를 가지고 있는 테이블 <br>
