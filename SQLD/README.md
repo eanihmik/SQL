@@ -1,6 +1,3 @@
-# SQLD
-5월 29일 SQLD 시험에 합격해봅시당 !
-
 #### 2과목 1장.sql
 <details>
 <summary> CLICK </summary>
