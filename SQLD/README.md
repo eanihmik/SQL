@@ -75,7 +75,30 @@
 <details>
 <summary> CLICK </summary>
 
-**\[예제1]**
+**\[예제1] 사원 번호와 사원 이름, 소속부서 코드와 소속부서 이름을 찾아본다.**
+
+**\[예제2] INNER JOIN과 NATURAL JOIN의 차이를 자세히 알아보기 위해 DEPT 테이블과 칼럼명이 같은 DEPT_TEMP 테이블을 만든 뒤, DNAME 칼럼의 데이터를 일부 수정하고 INNER/NATURAL JOIN을 수행한다.**
+
+**\[예제3] DEPT와 DEPT_TEMP 테이블을 DEPTNO 칼럼을 이용한 INNER JOIN의 USING 조건절로 수행한다.**
+
+**\[예제4] DEPT와 DEPT_TEMP 테이블의 일부 데이터 내용이 변경되었던 DNAME 칼럼을 조인 조건으로 INNER
+JOIN의 USING 조건절을 수행한다.**
+
+**\[예제5]**
+
+**\[예제6]**
+
+**\[예제7]**
+
+**\[예제8]**
+
+**\[예제9]**
+
+**\[예제10]**
+
+**\[예제11]**
+
+**\[예제12]**
 
 </details>
 
