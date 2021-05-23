@@ -6,4 +6,4 @@ SQL 마스터가 되어봅시당 !
 https://youtu.be/vgIc4ctNFbc
 
 - SQLD <br>
-21. 05. 29 제41회 SQL 개발자(SQLD) 시험 
+21/05/29 제41회 SQL 개발자(SQLD) 시험 대비
