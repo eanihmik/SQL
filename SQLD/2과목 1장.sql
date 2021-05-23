@@ -123,7 +123,7 @@ DESC TEAM;    # 구조 그대로
 
 
 
-/* #7 */
+#7
 CREATE TABLE 기관분류 (
 분류id VARCHAR(10) NOT NULL PRIMARY KEY,
 분류명 VARCHAR(10) NOT NULL,
